@@ -1,7 +1,8 @@
-# NeuralNetworks
-Neural networks, also known as artificial neural networks (ANNs) are a subset of machine learning and are at the heart of deep learning algorithms. Their name and structure are inspired by the human brain, mimicking the way that biological neurons signal to one another.
+# Digital Speech Processing
 
-This lectures will explain the differences between the three types of neural networks and cover the basics of Deep Neural Networks. Such as neural networks ,MLP ,Hopfield Network , self-organizing map (SOM) ,Adaline Network ,RBF , Autoencoder and CNN and RNN and LSTM. also it covers deep learning, learning paradigam and transfer learning too. By prof. hamid Hassanpour
+Speech processing is the study of speech signals and the processing methods of signals. The signals are usually processed in a digital representation, so speech processing can be regarded as a special case of digital signal processing, applied to speech signals. Aspects of speech processing includes the acquisition, manipulation, storage, transfer and output of speech signals. The input is called speech recognition and the output is called speech synthesis.
+
+this Course includes lectures like, the Speech Signal, Hearing and Auditory Perception, Short-Time Analysis of Speech, Homomorphic Speech Analysis, Cepstral Analysis of Speech, Text-to-Speech Synthesis Methods, Linear Predictive Analysis (LPC), Hidden Markov models.
 
 hope you enjoy it!
 
