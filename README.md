@@ -4,6 +4,6 @@ Speech processing is the study of speech signals and the processing methods of s
 
 this Course includes lectures like, the Speech Signal, Hearing and Auditory Perception, Short-Time Analysis of Speech, Homomorphic Speech Analysis, Cepstral Analysis of Speech, Text-to-Speech Synthesis Methods, Linear Predictive Analysis(LPC), Hidden Markov models.
 
-hope you enjoy it!
+i hope you enjoy it!
 
 https://www.linkedin.com/in/zohreh-bayramalizadeh/
